@@ -1,0 +1,33 @@
+/Users/duyguhasanzade/Desktop/untitled folder 2/ConsoleApp2/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.deps.json
+/Users/duyguhasanzade/Desktop/untitled folder 2/ConsoleApp2/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.json
+/Users/duyguhasanzade/Desktop/untitled folder 2/ConsoleApp2/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.dev.json
+/Users/duyguhasanzade/Desktop/untitled folder 2/ConsoleApp2/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.dll
+/Users/duyguhasanzade/Desktop/untitled folder 2/ConsoleApp2/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.pdb
+/Users/duyguhasanzade/Desktop/untitled folder 2/ConsoleApp2/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csproj.AssemblyReference.cache
+/Users/duyguhasanzade/Desktop/untitled folder 2/ConsoleApp2/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duyguhasanzade/Desktop/untitled folder 2/ConsoleApp2/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfoInputs.cache
+/Users/duyguhasanzade/Desktop/untitled folder 2/ConsoleApp2/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfo.cs
+/Users/duyguhasanzade/Desktop/untitled folder 2/ConsoleApp2/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/duyguhasanzade/Desktop/untitled folder 2/ConsoleApp2/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.dll
+/Users/duyguhasanzade/Desktop/untitled folder 2/ConsoleApp2/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.pdb
+/Users/duyguhasanzade/Desktop/untitled folder 2/ConsoleApp2/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.genruntimeconfig.cache
+/Users/duyguhasanzade/Desktop/ConsoleApp2/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.deps.json
+/Users/duyguhasanzade/Desktop/ConsoleApp2/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.json
+/Users/duyguhasanzade/Desktop/ConsoleApp2/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.dev.json
+/Users/duyguhasanzade/Desktop/ConsoleApp2/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.dll
+/Users/duyguhasanzade/Desktop/ConsoleApp2/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.pdb
+/Users/duyguhasanzade/Desktop/ConsoleApp2/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csproj.AssemblyReference.cache
+/Users/duyguhasanzade/Desktop/ConsoleApp2/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duyguhasanzade/Desktop/ConsoleApp2/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfoInputs.cache
+/Users/duyguhasanzade/Desktop/ConsoleApp2/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfo.cs
+/Users/duyguhasanzade/Desktop/ConsoleApp2/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/duyguhasanzade/Desktop/ConsoleApp2/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.dll
+/Users/duyguhasanzade/Desktop/ConsoleApp2/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.pdb
+/Users/duyguhasanzade/Desktop/ConsoleApp2/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.genruntimeconfig.cache
+C:\Users\duyghuhh\Desktop\ConsoleApp2-main\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\duyghuhh\Desktop\ConsoleApp2-main\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duyghuhh\Desktop\ConsoleApp2-main\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\duyghuhh\Desktop\ConsoleApp2-main\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\duyghuhh\Desktop\ConsoleApp2-main\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\duyghuhh\Desktop\ConsoleApp2-main\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\duyghuhh\Desktop\ConsoleApp2-main\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb

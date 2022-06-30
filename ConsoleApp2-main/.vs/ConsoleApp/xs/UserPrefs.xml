@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{203DECDF-D0E8-415A-B7AD-B0280084603B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApp/Program.cs">
+    <Files>
+      <File FileName="ConsoleApp/Program.cs" Line="25" Column="18" />
+      <File FileName="ConsoleApp/Manager.cs" Line="28" Column="35" />
+      <File FileName="ConsoleApp/TodoItem.cs" Line="25" Column="1" />
+      <File FileName="ConsoleApp/ITodoManager.cs" />
+      <File FileName="ConsoleApp/NotInLogicalTimeLine.cs" />
+      <File FileName="ConsoleApp/Status.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleApp" expanded="True">
+            <Node name="ConsoleApp" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
